@@ -160,7 +160,7 @@ tags:
 
 ### 快速开始
 
-1. 克隆[https://github.com/WTFAcademy/WTF-Huff]或[Huff模版仓库](https://github.com/huff-language/huff-project-template)。
+1. 克隆[WTF-Huff](https://github.com/WTFAcademy/WTF-Huff)或[Huff模版仓库](https://github.com/huff-language/huff-project-template)。
 
 运行：
 
